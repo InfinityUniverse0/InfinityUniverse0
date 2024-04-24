@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InfinityUniverse0&show_icons=true&include_all_commits=true&count_private=true" alt="InfinityUniverse0's GitHub stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=InfinityUniverse0&show_icons=true&include_all_commits=true&count_private=true" alt="InfinityUniverse0's GitHub stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityUniverse0&layout=compact" alt="Top Languages" />
 </div>
