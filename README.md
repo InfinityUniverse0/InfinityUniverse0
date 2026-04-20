@@ -5,7 +5,7 @@
 </div>
 
 - 👋 Welcome to my profile 🎉
-- 🎓 PhD Candidate @ Nankai University
+- 🎓 Ph.D. Candidate @ Nankai University
 - 🔭 Wander To eXplore
 - 📫 Please feel free to contact me via [wtxInfinity@outlook.com](mailto:wtxInfinity@outlook.com)
 
